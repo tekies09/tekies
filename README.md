@@ -1,6 +1,8 @@
 # Hi I'm tekies09 (moontekrho)
 
-##  Hi there! I'm Back-End developer using Spring and JAVA. 
+##  Hi there! I'm Back-End developer using Spring and JAVA.  
+
+MY Engineering blog is here  https://velog.io/@tekies09
   
 **1. notion :  https://ivory-pea-433.notion.site/c30cee33792242ab8d54dcd13db5324f**  
 
