@@ -16,3 +16,8 @@ MY Engineering blog is here  https://velog.io/@tekies09
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekies09)](https://github.com/anuraghazra/github-readme-stats)
 
+
+**4. AlgoStudy**  
+[self-study](https://github.com/tekies09/Algo)  || 
+[3 times a week group-study](https://github.com/DailyPSStudy/Algo)  || 
+[1 times a week group-study](https://github.com/incheon-kim/leftovers-algo)
